@@ -4,7 +4,7 @@ An interactive Power BI dashboard that gives an insurance company a single, cent
 
 ![Dashboard Preview](images/dashboard.png)
 
-> 📌 Save a screenshot of the dashboard as `images/dashboard.png` so the preview above displays on GitHub.
+
 
 ---
 
@@ -173,12 +173,9 @@ Insurance-Risk-Claims-Analysis/
 ## 👤 Author
 
 **Your Name**
-- LinkedIn: [your-linkedin-url](https://linkedin.com/in/your-profile)
-- GitHub: [your-github-username](https://github.com/your-username)
+- LinkedIn: [Amin Safout Ali](https://linkedin.com/in/aminsafoutal)
+- Power BI Service: [Insurance Risk & Claims Analysis Dashboard]([https://github.com/your-username](https://app.powerbi.com/view?r=eyJrIjoiYmMxY2M0ZmItYmZmNi00YzczLTg2OWMtZDlhOWRlOTJlNDBjIiwidCI6IjM3ODljOWY3LWM4NDEtNGMyMi1hZjVhLTQ5MWRhOTk5MWQ4NiJ9))
 
----
-
-## 🙏 Acknowledgements
 
 Business requirement and domain documents by **Swapnjeet S** ([Data Tutorials](https://www.youtube.com/@datatutorials1)).
 
