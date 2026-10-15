@@ -143,7 +143,6 @@ Insurance-Risk-Claims-Analysis/
     └── dashboard.png                           # Dashboard screenshot
 ```
 
-> Adjust file and folder names to match your actual project files.
 
 ---
 
@@ -151,7 +150,7 @@ Insurance-Risk-Claims-Analysis/
 
 1. **Clone** the repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+   git clone git@github.com:Aminsfwt/Insurance-Risk-Claims-Analysis-Report.git
    ```
 2. Install **Power BI Desktop** (free, Windows).
 3. Open the `.pbix` file from the repository.
