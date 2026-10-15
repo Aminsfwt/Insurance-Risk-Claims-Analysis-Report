@@ -173,12 +173,11 @@ Insurance-Risk-Claims-Analysis/
 ## 👤 Author
 
 **Your Name**
-- LinkedIn: [Amin Safout Ali](https://linkedin.com/in/aminsafoutal)
-- Power BI Service: [Insurance Risk & Claims Analysis Dashboard]([https://github.com/your-username](https://app.powerbi.com/view?r=eyJrIjoiYmMxY2M0ZmItYmZmNi00YzczLTg2OWMtZDlhOWRlOTJlNDBjIiwidCI6IjM3ODljOWY3LWM4NDEtNGMyMi1hZjVhLTQ5MWRhOTk5MWQ4NiJ9))
+- LinkedIn: [Amin Safout Ali](https://linkedin.com/in/aminsafoutali)
+- Power BI Service: [Insurance Risk & Claims Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmMxY2M0ZmItYmZmNi00YzczLTg2OWMtZDlhOWRlOTJlNDBjIiwidCI6IjM3ODljOWY3LWM4NDEtNGMyMi1hZjVhLTQ5MWRhOTk5MWQ4NiJ9)
 
 
 Business requirement and domain documents by **Swapnjeet S** ([Data Tutorials](https://www.youtube.com/@datatutorials1)).
 
 ---
 
-⭐ If you found this project useful, please give it a star!
